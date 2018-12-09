@@ -1,0 +1,6 @@
+﻿  Interpreter.cpp
+C:\Users\Oleg\source\repos\interpreter.git\Interpreter\Interpreter\Interpreter.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Oleg\source\repos\interpreter.git\Interpreter\Interpreter\Interpreter.cpp(60): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oleg\source\repos\interpreter.git\Interpreter\Interpreter\Interpreter.cpp(198): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Oleg\source\repos\interpreter.git\Interpreter\Interpreter\Interpreter.cpp(48): warning C4715: 'calculateExpression': not all control paths return a value
+  Interpreter.vcxproj -> C:\Users\Oleg\source\repos\interpreter.git\Interpreter\Debug\Interpreter.exe
